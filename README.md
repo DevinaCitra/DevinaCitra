@@ -1,4 +1,4 @@
-## Hi there 👋
+🎓 Computer Science Graduated 
 
 ## 📊 GitHub Stats
 
