@@ -3,7 +3,9 @@
 
 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevinaCitra&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?DevinaCitra=USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?DevinaCitra=USERNAME&layout=compact)
 <!--
 **DevinaCitra/DevinaCitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
