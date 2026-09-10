@@ -1,10 +1,5 @@
 🎓 Computer Science Graduated 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DevinaCitra&show_icons=true)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevinaCitra&layout=compact)
 <!--
 **DevinaCitra/DevinaCitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
